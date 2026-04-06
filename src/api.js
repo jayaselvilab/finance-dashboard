@@ -8,3 +8,28 @@ const API = axios.create({
 export const fetchRecords = () => API.get('/api/records'); 
 export const createRecord = (data) => API.post('/api/records', data);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
